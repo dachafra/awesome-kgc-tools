@@ -47,6 +47,7 @@ Links and description of Knowledge Graphs Construction Tools
 * [FnO](https://fno.io/rml/) - Function Ontology (FnO), a way to semantically declare and describe implementation-independent functions, and their relations to related concepts such as parameters, outputs, related problems, algorithms, mappings to concrete implementations, and executions.
 
 ## Mapping Editors
+* [Mapping Workbench](https://meaningfy.ws/mapping-workbench/) - Collaborative IDE for mapping development guided by a sound [test-driven methodology](https://ceur-ws.org/Vol-3759/paper23.pdf), with support for conceptual mappigng, technical mapping, and mapping quality validation (SPARQL, SHACL & coverage tests). [Demo](https://mw.meaningfy.ws/) | [Paper](https://ceur-ws.org/Vol-3759/paper23.pdf)     
 * [JUMA](https://opengogs.adaptcentre.ie/crottija/juma-r2rml) - Jigsaw Puzzles for Representing Mappings
 * [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor) - Definition of Excel-based mappings and translation to [R2]RML mappings.
 * [Matey](https://rml.io/yarrrrml/matey/) - Matey is a web based editor for YARRRML rules.
@@ -67,6 +68,7 @@ Links and description of Knowledge Graphs Construction Tools
 * [OWL2YARRRML](https://github.com/oeg-upm/owl2yarrrml) - Generates a mapping template in YARRRML given an ontology.
 
 ## KGC Pipelines
+* [Mapping Workbench](https://meaningfy.ws/mapping-workbench/) - Collaborative platform for automating the mapping development lifecycle: from conceptual mapping alignment through RML implementation to quality assurance (SPARQL/SHACL validation, test-driven mapping). [Demo](https://mw.meaningfy.ws/) | [Paper](https://ceur-ws.org/Vol-3759/paper23.pdf) 
 * [KGCP](http://w3id.org/kgcp/) - "_KG Construction Pipeline_" - A suite of software artifacts to automate the creation of KGs from heterogeneous data sources.
 
 ## KG subgraph extractors
