@@ -57,6 +57,7 @@ Links and description of Knowledge Graphs Construction Tools
 * [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents (DEPRECATED)
 * [Karma](https://usc-isi-i2.github.io/karma/) - A web-based editor for visually creating R2RML mappings in order to create RDF from databases, spreadsheets, delimited text files, XML, JSON, KML and Web APIs according to an ontology of the user's choice.
 * [Helio Playground](https://helio-playground.linkeddata.es/) - A web-base playground to edit and use RML mappings and custom Freemarker-based mappings.
+* [MetaConfigurator](https://github.com/MetaConfigurator/meta-configurator/tree/develop/documentation_user/examples/rdf) - A web-based JSON Schema editor with a dialog to convert JSON data to RDF via RML and a subsequent RDF visualization UI that allows editing, visualizing and querying triples.
 
 ## Mapping Translators
 * [YARRRML-parser](https://github.com/RMLio/yarrrml-parser) - JavaScript engine that translates from YARRRML/RML/R2RML to YARRRML/RML/R2RML
@@ -66,6 +67,7 @@ Links and description of Knowledge Graphs Construction Tools
 ## Mapping Generators
 * [Spread2RML](https://www.dfki.uni-kl.de/~mschroeder/demo/spread2rml/) - Suggests RML mappings on messy spreadsheets.
 * [OWL2YARRRML](https://github.com/oeg-upm/owl2yarrrml) - Generates a mapping template in YARRRML given an ontology.
+* [MetaConfigurator](https://github.com/MetaConfigurator/meta-configurator/tree/develop/documentation_user/examples/rdf) - Has in-built AI-assistance to generate mappings via LLM based on user hints in natrual language.
 
 ## KGC Pipelines
 * [Mapping Workbench](https://meaningfy.ws/mapping-workbench/) - Collaborative platform for automating the mapping development lifecycle: from conceptual mapping alignment through RML implementation to quality assurance (SPARQL/SHACL validation, test-driven mapping). [Demo](https://mw.meaningfy.ws/) | [Paper](https://ceur-ws.org/Vol-3759/paper23.pdf) 
