@@ -28,6 +28,7 @@ Links and description of Knowledge Graphs Construction Tools
 * [EABlock](https://github.com/SDM-TIB/EABlock) - A computational block to solve entity alignment over textual attributes in a knowledge graph creation pipeline. 
 * [FunMap](https://github.com/SDM-TIB/FunMap) - Efficient preprocessing of transformation rules described in RML+FnO mappings.
 * [Excel in RML](https://www.dfki.uni-kl.de/~mschroeder/demo/excel-rml/) - RMLMapper extension to support Excel spreadsheets.
+* [RMLViewer](https://github.com/RMLio/rmlviewer) - Preprocessor of RML-LV that materializes RML Logical Views as JSON files and produces an adapted mapping that can be processed by any RML engine supporting RML-Core.
 
 ## NLP for KGC
 * [TNNT](https://w3id.org/kgcp/MEL-TNNT/) - (*The NLP/NER Toolkit*) - A tool that automates the extraction of categorised named entities from the unstructured information encoded in the source documents, using diverse NLP tools and NER models.
@@ -58,6 +59,7 @@ Links and description of Knowledge Graphs Construction Tools
 * [Karma](https://usc-isi-i2.github.io/karma/) - A web-based editor for visually creating R2RML mappings in order to create RDF from databases, spreadsheets, delimited text files, XML, JSON, KML and Web APIs according to an ontology of the user's choice.
 * [Helio Playground](https://helio-playground.linkeddata.es/) - A web-base playground to edit and use RML mappings and custom Freemarker-based mappings.
 * [MetaConfigurator](https://www.metaconfigurator.org) - A web-based JSON Schema editor with a dialog to [convert JSON data to RDF via RML](https://github.com/MetaConfigurator/meta-configurator/tree/develop/documentation_user/examples/rdf) and a subsequent RDF visualization UI that allows editing, visualizing and querying triples.
+* [RML Playground](https://w3id.org/imec/rml/playground)- Online editing, validation, and execution for the RML.
 
 ## Mapping Translators
 * [YARRRML-parser](https://github.com/RMLio/yarrrml-parser) - JavaScript engine that translates from YARRRML/RML/R2RML to YARRRML/RML/R2RML
